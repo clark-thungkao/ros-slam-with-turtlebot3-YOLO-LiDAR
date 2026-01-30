@@ -6,7 +6,11 @@ Autonomous warehouse exploration and mapping system using a TurtleBot3 and ROS2.
 
 📹 **Demo Video** Click to see it on action: [FULL VIDEO](https://drive.google.com/drive/u/3/folders/1Fd8xL_St2xONka2jJihXiYY5CI0iJ5w3)
 #Short Demonstration 
-https://github.com/user-attachments/assets/6a3be1e8-1bb1-430f-8730-63843ce6faee
+
+
+
+https://github.com/user-attachments/assets/02c53dc5-e787-46f1-ad1e-e4ea39d14d89
+
 
 
 📄👥 **Authors**
