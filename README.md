@@ -4,7 +4,10 @@ Autonomous warehouse exploration and mapping system using a TurtleBot3 and ROS2.
 
 > **Autonomous exploration, AprilTag-based identification, and object mapping using TurtleBot3 in a simulated warehouse environment**
 
-📹 **Demo Video** Click to see it on action: [VIDEO](https://drive.google.com/drive/u/3/folders/1Fd8xL_St2xONka2jJihXiYY5CI0iJ5w3)
+📹 **Demo Video** Click to see it on action: [FULL VIDEO](https://drive.google.com/drive/u/3/folders/1Fd8xL_St2xONka2jJihXiYY5CI0iJ5w3)
+#Short Demonstration 
+https://github.com/user-attachments/assets/6a3be1e8-1bb1-430f-8730-63843ce6faee
+
 
 📄👥 **Authors**
 [Panithi Thunkao](https://www.linkedin.com/in/panithi-thungkao-a2234b224/) 
@@ -139,3 +142,4 @@ YOLOv8
 AprilTag
 TurtleBot3
 Python
+**Gitlab for version control**
