@@ -1,10 +1,11 @@
 # ros-slam-with-turtlebot3-YOLO-LiDAR
 Autonomous warehouse exploration and mapping system using a TurtleBot3 and ROS2. Features AprilTag-triggered object detection (YOLOv8), SLAM-based localization, and a finite state machine for mission coordination.
-# ARAMS – Autonomous Robot Exploration and Mapping System (ROS 2)
+# This project is part of my university course projetct ARAMS – Autonomous Robot Exploration and Mapping System (ROS 2)
 
 > **Autonomous exploration, AprilTag-based identification, and object mapping using TurtleBot3 in a simulated warehouse environment**
 
-📹 **Demo Video: 
+📹 **Demo Video** Click to see it on action: [VIDEO](https://drive.google.com/drive/u/3/folders/1Fd8xL_St2xONka2jJihXiYY5CI0iJ5w3)
+
 📄👥 **Authors**
 [Panithi Thunkao](https://www.linkedin.com/in/panithi-thungkao-a2234b224/) 
 Duy Linh Nguyen
